@@ -9,5 +9,7 @@
       <class name="com.crm.genericImplemented.CreateOrgWithIndTypeBaseClassTest"/>
       <class name="com.crm.genericImplemented.CreateOrgBaseClassTest"/>
     </classes>
+    
+    
   </test> <!-- Test -->
 </suite> <!-- Suite -->
