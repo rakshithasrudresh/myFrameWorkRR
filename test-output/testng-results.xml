@@ -44,51 +44,51 @@
       <![CDATA[-====Database close successfull===]]>
     </line>
   </reporter-output>
-  <suite started-at="2022-03-17T11:23:44 IST" name="Suite" finished-at="2022-03-17T11:24:04 IST" duration-ms="19514">
+  <suite started-at="2022-03-17T11:35:37 IST" name="Suite" finished-at="2022-03-17T11:35:57 IST" duration-ms="19354">
     <groups>
     </groups>
-    <test started-at="2022-03-17T11:23:44 IST" name="Test" finished-at="2022-03-17T11:24:04 IST" duration-ms="19514">
+    <test started-at="2022-03-17T11:35:37 IST" name="Test" finished-at="2022-03-17T11:35:57 IST" duration-ms="19354">
       <class name="com.crm.genericImplemented.CreateOrgWithIndTypeBaseClassTest">
-        <test-method is-config="true" signature="connectDataBase()[pri:0, instance:com.crm.genericImplemented.CreateOrgWithIndTypeBaseClassTest@1a18644]" started-at="2022-03-17T11:23:44 IST" name="connectDataBase" finished-at="2022-03-17T11:23:44 IST" duration-ms="10" status="PASS">
+        <test-method is-config="true" signature="connectDataBase()[pri:0, instance:com.crm.genericImplemented.CreateOrgWithIndTypeBaseClassTest@1a18644]" started-at="2022-03-17T11:35:37 IST" name="connectDataBase" finished-at="2022-03-17T11:35:37 IST" duration-ms="8" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[=====db connection successfull===]]>
             </line>
           </reporter-output>
         </test-method> <!-- connectDataBase -->
-        <test-method is-config="true" signature="launchTheBrowser()[pri:0, instance:com.crm.genericImplemented.CreateOrgWithIndTypeBaseClassTest@1a18644]" started-at="2022-03-17T11:23:45 IST" name="launchTheBrowser" finished-at="2022-03-17T11:23:46 IST" duration-ms="1781" status="PASS">
+        <test-method is-config="true" signature="launchTheBrowser()[pri:0, instance:com.crm.genericImplemented.CreateOrgWithIndTypeBaseClassTest@1a18644]" started-at="2022-03-17T11:35:38 IST" name="launchTheBrowser" finished-at="2022-03-17T11:35:39 IST" duration-ms="1707" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[=====browser launch successfull===]]>
             </line>
           </reporter-output>
         </test-method> <!-- launchTheBrowser -->
-        <test-method is-config="true" signature="login()[pri:0, instance:com.crm.genericImplemented.CreateOrgWithIndTypeBaseClassTest@1a18644]" started-at="2022-03-17T11:23:46 IST" name="login" finished-at="2022-03-17T11:23:48 IST" duration-ms="1481" status="PASS">
+        <test-method is-config="true" signature="login()[pri:0, instance:com.crm.genericImplemented.CreateOrgWithIndTypeBaseClassTest@1a18644]" started-at="2022-03-17T11:35:39 IST" name="login" finished-at="2022-03-17T11:35:41 IST" duration-ms="1526" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[======login successful=====]]>
             </line>
           </reporter-output>
         </test-method> <!-- login -->
-        <test-method signature="createOrgWithIndustryType()[pri:0, instance:com.crm.genericImplemented.CreateOrgWithIndTypeBaseClassTest@1a18644]" started-at="2022-03-17T11:23:48 IST" name="createOrgWithIndustryType" finished-at="2022-03-17T11:23:53 IST" duration-ms="5399" status="PASS">
+        <test-method signature="createOrgWithIndustryType()[pri:0, instance:com.crm.genericImplemented.CreateOrgWithIndTypeBaseClassTest@1a18644]" started-at="2022-03-17T11:35:41 IST" name="createOrgWithIndustryType" finished-at="2022-03-17T11:35:46 IST" duration-ms="5497" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- createOrgWithIndustryType -->
-        <test-method is-config="true" signature="logout()[pri:0, instance:com.crm.genericImplemented.CreateOrgWithIndTypeBaseClassTest@1a18644]" started-at="2022-03-17T11:23:53 IST" name="logout" finished-at="2022-03-17T11:23:54 IST" duration-ms="822" status="PASS">
+        <test-method is-config="true" signature="logout()[pri:0, instance:com.crm.genericImplemented.CreateOrgWithIndTypeBaseClassTest@1a18644]" started-at="2022-03-17T11:35:46 IST" name="logout" finished-at="2022-03-17T11:35:47 IST" duration-ms="797" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[========logout successfull====]]>
             </line>
           </reporter-output>
         </test-method> <!-- logout -->
-        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.crm.genericImplemented.CreateOrgWithIndTypeBaseClassTest@1a18644]" started-at="2022-03-17T11:23:54 IST" name="closeBrowser" finished-at="2022-03-17T11:23:54 IST" duration-ms="108" status="PASS">
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.crm.genericImplemented.CreateOrgWithIndTypeBaseClassTest@1a18644]" started-at="2022-03-17T11:35:47 IST" name="closeBrowser" finished-at="2022-03-17T11:35:47 IST" duration-ms="102" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[====browser close successfull====]]>
             </line>
           </reporter-output>
         </test-method> <!-- closeBrowser -->
-        <test-method is-config="true" signature="closeDb()[pri:0, instance:com.crm.genericImplemented.CreateOrgWithIndTypeBaseClassTest@1a18644]" started-at="2022-03-17T11:24:04 IST" name="closeDb" finished-at="2022-03-17T11:24:04 IST" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="closeDb()[pri:0, instance:com.crm.genericImplemented.CreateOrgWithIndTypeBaseClassTest@1a18644]" started-at="2022-03-17T11:35:57 IST" name="closeDb" finished-at="2022-03-17T11:35:57 IST" duration-ms="0" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[-====Database close successfull===]]>
@@ -97,21 +97,21 @@
         </test-method> <!-- closeDb -->
       </class> <!-- com.crm.genericImplemented.CreateOrgWithIndTypeBaseClassTest -->
       <class name="com.crm.genericImplemented.CreateOrgBaseClassTest">
-        <test-method is-config="true" signature="launchTheBrowser()[pri:0, instance:com.crm.genericImplemented.CreateOrgBaseClassTest@18d87d80]" started-at="2022-03-17T11:23:54 IST" name="launchTheBrowser" finished-at="2022-03-17T11:23:56 IST" duration-ms="1318" status="PASS">
+        <test-method is-config="true" signature="launchTheBrowser()[pri:0, instance:com.crm.genericImplemented.CreateOrgBaseClassTest@18d87d80]" started-at="2022-03-17T11:35:47 IST" name="launchTheBrowser" finished-at="2022-03-17T11:35:49 IST" duration-ms="1348" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[=====browser launch successfull===]]>
             </line>
           </reporter-output>
         </test-method> <!-- launchTheBrowser -->
-        <test-method is-config="true" signature="login()[pri:0, instance:com.crm.genericImplemented.CreateOrgBaseClassTest@18d87d80]" started-at="2022-03-17T11:23:56 IST" name="login" finished-at="2022-03-17T11:23:57 IST" duration-ms="1466" status="PASS">
+        <test-method is-config="true" signature="login()[pri:0, instance:com.crm.genericImplemented.CreateOrgBaseClassTest@18d87d80]" started-at="2022-03-17T11:35:49 IST" name="login" finished-at="2022-03-17T11:35:50 IST" duration-ms="1430" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[======login successful=====]]>
             </line>
           </reporter-output>
         </test-method> <!-- login -->
-        <test-method signature="createOrgTest()[pri:0, instance:com.crm.genericImplemented.CreateOrgBaseClassTest@18d87d80]" started-at="2022-03-17T11:23:57 IST" name="createOrgTest" finished-at="2022-03-17T11:23:59 IST" duration-ms="2348" status="FAIL">
+        <test-method signature="createOrgTest()[pri:0, instance:com.crm.genericImplemented.CreateOrgBaseClassTest@18d87d80]" started-at="2022-03-17T11:35:50 IST" name="createOrgTest" finished-at="2022-03-17T11:35:52 IST" duration-ms="2385" status="FAIL">
           <exception class="java.lang.AssertionError">
             <message>
               <![CDATA[null]]>
@@ -158,21 +158,21 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
             </line>
           </reporter-output>
         </test-method> <!-- createOrgTest -->
-        <test-method is-config="true" signature="logout()[pri:0, instance:com.crm.genericImplemented.CreateOrgBaseClassTest@18d87d80]" started-at="2022-03-17T11:24:00 IST" name="logout" finished-at="2022-03-17T11:24:00 IST" duration-ms="844" status="PASS">
+        <test-method is-config="true" signature="logout()[pri:0, instance:com.crm.genericImplemented.CreateOrgBaseClassTest@18d87d80]" started-at="2022-03-17T11:35:53 IST" name="logout" finished-at="2022-03-17T11:35:53 IST" duration-ms="810" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[========logout successfull====]]>
             </line>
           </reporter-output>
         </test-method> <!-- logout -->
-        <test-method is-config="true" signature="login()[pri:0, instance:com.crm.genericImplemented.CreateOrgBaseClassTest@18d87d80]" started-at="2022-03-17T11:24:00 IST" name="login" finished-at="2022-03-17T11:24:02 IST" duration-ms="1456" status="PASS">
+        <test-method is-config="true" signature="login()[pri:0, instance:com.crm.genericImplemented.CreateOrgBaseClassTest@18d87d80]" started-at="2022-03-17T11:35:53 IST" name="login" finished-at="2022-03-17T11:35:55 IST" duration-ms="1321" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[======login successful=====]]>
             </line>
           </reporter-output>
         </test-method> <!-- login -->
-        <test-method signature="createSampleTestCase()[pri:0, instance:com.crm.genericImplemented.CreateOrgBaseClassTest@18d87d80]" started-at="2022-03-17T11:24:02 IST" name="createSampleTestCase" finished-at="2022-03-17T11:24:02 IST" duration-ms="1" status="FAIL">
+        <test-method signature="createSampleTestCase()[pri:0, instance:com.crm.genericImplemented.CreateOrgBaseClassTest@18d87d80]" started-at="2022-03-17T11:35:55 IST" name="createSampleTestCase" finished-at="2022-03-17T11:35:55 IST" duration-ms="1" status="FAIL">
           <exception class="java.lang.AssertionError">
             <message>
               <![CDATA[null]]>
@@ -219,14 +219,14 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
             </line>
           </reporter-output>
         </test-method> <!-- createSampleTestCase -->
-        <test-method is-config="true" signature="logout()[pri:0, instance:com.crm.genericImplemented.CreateOrgBaseClassTest@18d87d80]" started-at="2022-03-17T11:24:02 IST" name="logout" finished-at="2022-03-17T11:24:04 IST" duration-ms="1693" status="PASS">
+        <test-method is-config="true" signature="logout()[pri:0, instance:com.crm.genericImplemented.CreateOrgBaseClassTest@18d87d80]" started-at="2022-03-17T11:35:55 IST" name="logout" finished-at="2022-03-17T11:35:57 IST" duration-ms="1673" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[========logout successfull====]]>
             </line>
           </reporter-output>
         </test-method> <!-- logout -->
-        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.crm.genericImplemented.CreateOrgBaseClassTest@18d87d80]" started-at="2022-03-17T11:24:04 IST" name="closeBrowser" finished-at="2022-03-17T11:24:04 IST" duration-ms="95" status="PASS">
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.crm.genericImplemented.CreateOrgBaseClassTest@18d87d80]" started-at="2022-03-17T11:35:57 IST" name="closeBrowser" finished-at="2022-03-17T11:35:57 IST" duration-ms="127" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[====browser close successfull====]]>

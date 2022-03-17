@@ -5,9 +5,12 @@
   <listener class-name="com.crm.GenericLibrary.ListenerImplementationClass"></listener>
   </listeners>
   <test thread-count="5" name="Test">
+  
     <classes>
+    
       <class name="com.crm.genericImplemented.CreateOrgWithIndTypeBaseClassTest"/>
       <class name="com.crm.genericImplemented.CreateOrgBaseClassTest"/>
+      
     </classes>
     
     
